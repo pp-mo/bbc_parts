@@ -1,0 +1,49 @@
+IDEAS ...
+add hook to output (blue) end, 
+  - well above the release gate / output channel
+  - also solidifies width for release gate
+remove locating lugs from baseplate, replace with removable locking tongue
+  - could be slide-in from input side, like output ramp on output side
+make main actuator removable
+  - add horiz piece to vertical brace at outer edge of input towers
+  - then cutaway with dogtooth design to make separate actuator hinge support, removable.
+     - .. to suit existing shape of cutaway for carry-blocker
+
+===========
+BIG PROBLEM
+===========
+Positioning of release gate 23mm up on upstream side of output
+  - current position will tend to catch on the actuator arm
+  - simplest fix would be to expand the size of curved output plates
+
+Problems
+
+Position of actuator shifted by 2-3 upslope
+  - probably input ramp is short/high by 2mm : effectively, cut off ~ at edge of plates (no bad thing)
+
+Upward end of actuator horizontal plate is cut short : needs a 3-4 mm more?
+
+P2 cut off end of actuator : PAINT connectivity ? 
+LIKEWISE All the small rectangles are hard to identify
+
+Not sure about assym spacers at btm of rocker
+  - nor about the rocker parts angled edges
+(?seems workable for now?)
+
+Joining hooks need much broader chamfer
+
+LHS plate with big hole (green) does not need the backward-sloping cutout
+ - the support for the tipper likewise can be cut short
+
+End plate needs separate one-piece design : 
+  - input side needs just the big hole and slots for hooks
+  - output side can be very simple : just to support lifting-gate
+  - at the bottom:
+    - cut off the plates with 5mm beyond the adjoining baseplate
+    - add a baseplate (stuck on) sitting directly below the adjoining baseplate
+    - use a couple of 5mm tongues to locate the two
+
+??LATER??
+  lower exit ramp cutout on output (blue) much too thin
+  - also matching ramp piece : lugs too frail
+
