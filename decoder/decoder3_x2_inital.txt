@@ -1,0 +1,6 @@
+actuator bar needs better marking : both hole and cutaway edges
+tipper top central guide needs 30deg rear cutaway
+tipper lower plates cut back to fit length
+tipper diverter supports too deep
+input guides need moving up 3mm for clearance
+output outer guides cut back to ~top of tipper (as cutaway) : ~75mm in this case

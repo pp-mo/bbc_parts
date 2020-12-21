@@ -12,6 +12,19 @@ make main actuator removable
 ===========
 BIG PROBLEM
 ===========
+
+(NEW)
+#5 not marked w edges of rocker
+mark inlet indent on baseplate
+*missing* outlet-side securing hook
+*missing* main actuator locating plate (15x30mm)
+inlet ramp *cut off wrong parts* : make clearer
+input side upstream plate : location mark for upstream tipper *not longer wanted*
+needs locating mark for actuator swing end-stop
+tipper horiontal rest needs raising 0.5mm to prevent blocking
+
+
+
 Positioning of release gate 23mm up on upstream side of output
   - current position will tend to catch on the actuator arm
   - simplest fix would be to expand the size of curved output plates
@@ -22,26 +35,21 @@ Position of actuator shifted by 2-3 upslope
   - probably input ramp is short/high by 2mm : effectively, cut off ~ at edge of plates (no bad thing)
 
 Upward end of actuator horizontal plate is cut short : needs a 3-4 mm more?
+  - ALSO extend to join slanted blocking rect : cutaway underneath
 
-P2 cut off end of actuator : PAINT connectivity ? 
+P2 accidentally cut off end of actuator : PAINT connectivity ? 
 LIKEWISE All the small rectangles are hard to identify
 
 Not sure about assym spacers at btm of rocker
   - nor about the rocker parts angled edges
 (?seems workable for now?)
+ALSO end section could usefully be 2-3 mm longer
 
-Joining hooks need much broader chamfer
+Joining hooks need much better chamfer : pull-in from edge, cut of corner (not shallow)
 
 LHS plate with big hole (green) does not need the backward-sloping cutout
  - the support for the tipper likewise can be cut short
 
-End plate needs separate one-piece design : 
-  - input side needs just the big hole and slots for hooks
-  - output side can be very simple : just to support lifting-gate
-  - at the bottom:
-    - cut off the plates with 5mm beyond the adjoining baseplate
-    - add a baseplate (stuck on) sitting directly below the adjoining baseplate
-    - use a couple of 5mm tongues to locate the two
 
 ??LATER??
   lower exit ramp cutout on output (blue) much too thin
