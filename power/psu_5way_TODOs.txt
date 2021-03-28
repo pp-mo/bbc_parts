@@ -1,0 +1,11 @@
+X =done  [swap in/out extents of cutouts in RH support]
+. lift output ends of all dippers by 5mm
+. ALL THIN LINES
+    - 0.4 is much too think (esp red??)
+    - 0.3 is ok-ish
+    - 0.3 dashed, possibly neater/safer
+
+. entry ramp needs to be higher
+    - AND sloped towards output (lhs) side
+
+
