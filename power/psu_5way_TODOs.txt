@@ -1,11 +1,28 @@
 X =done  [swap in/out extents of cutouts in RH support]
 . lift output ends of all dippers by 5mm
+    - (i.e. and then : whole LHS)
 . ALL THIN LINES
-    - 0.4 is much too think (esp red??)
+    - 0.4 is much too thick (esp red??)
     - 0.3 is ok-ish
     - 0.3 dashed, possibly neater/safer
 
 . entry ramp needs to be higher
     - AND sloped towards output (lhs) side
+    - AND add guard rails at sides
+. anyway tippers *still* needed shimming ~1.5mm (thin corrugated),
+    .. return < horizontal
+. HOWEVER, movement now probably minimal
+    - depends on drop from one pice to next
+    - possibly can increase drop **OR** standoff distance of outlet releases
+    .. then can (maybe) increase movement again
 
+. spacing of outlet is too narrow
+
+. tippers need slowing down: additional outrigger, weights ??
+
+. outlet release edges poor
+    - (already) added 5mm to lower extent : cutout edge from 10mm to 6mm
+    - extend lower part of fin to be closer to cutout in 'up' position
+    - (possibly) can extend cutout all the way to the edge ?
+      * but then, what will support ??
 
