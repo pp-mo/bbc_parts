@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg4243"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="indexer.svg">
   <defs
      id="defs4245" />
@@ -25,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2643786"
-     inkscape:cx="482.86396"
-     inkscape:cy="2190.5404"
+     inkscape:zoom="1.4863316"
+     inkscape:cx="543.77547"
+     inkscape:cy="410.72056"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,10 +36,10 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-others="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="697"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:snap-midpoints="true"
      inkscape:bbox-nodes="true"
@@ -50,7 +48,8 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-bbox-midpoints="false"
      showguides="false"
-     inkscape:snap-nodes="true">
+     inkscape:snap-nodes="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="-526.39843,1539.9828"
        orientation="1,0"
@@ -494,7 +493,6 @@
        x="-416.19366"
        y="-505.08008"
        id="text6233"
-       sodipodi:linespacing="125%"
        transform="matrix(0.9945219,-0.10452846,0.10452846,0.9945219,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6235"
@@ -506,8 +504,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-473.42316"
        y="-448.79364"
-       id="text6237"
-       sodipodi:linespacing="125%"><tspan
+       id="text6237"><tspan
          sodipodi:role="line"
          id="tspan6239"
          x="-473.42316"
@@ -518,7 +515,6 @@
        x="-623.66461"
        y="-140.34206"
        id="text6233-4"
-       sodipodi:linespacing="125%"
        transform="matrix(0.89879405,0.43837115,-0.43837115,0.89879405,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6235-9"
@@ -589,7 +585,6 @@
        x="-237.6629"
        y="-439.61484"
        id="text6233-43"
-       sodipodi:linespacing="125%"
        transform="matrix(0.9945219,-0.10452846,0.10452846,0.9945219,0,0)"><tspan
          sodipodi:role="line"
          x="-237.6629"
@@ -1664,24 +1659,26 @@
        x="361.80655"
        y="281.92474" />
     <g
-       id="g5911">
+       id="g7099"
+       transform="translate(-506.25)">
       <path
-         sodipodi:open="true"
-         d="M 583.64172,220.00341 A 230.31496,230.31496 0 0 1 512.34489,456.23263"
          sodipodi:end="0.85844064"
          sodipodi:start="6.0109815"
          sodipodi:ry="230.31496"
          sodipodi:rx="230.31496"
          sodipodi:cy="281.92468"
-         sodipodi:cx="361.80679"
+         sodipodi:cx="868.05676"
          sodipodi:type="arc"
          id="circle4933"
-         style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:arc-type="arc"
+         d="m 1089.8917,220.00341 a 230.31496,230.31496 0 0 1 -71.2968,236.22922"
+         sodipodi:open="true" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4935"
-         d="m 512.27578,456.29229 0.33268,83.05897 213.96542,2e-5 -3e-5,-318.89765 -142.93214,-0.45025"
+         d="m 1018.5258,456.29229 0.3327,83.05897 213.9654,2e-5 V 220.45363 l -142.9322,-0.45025"
          style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
     <path
@@ -3868,7 +3865,8 @@
              x="894.44348"
              y="-983.01019"
              style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-           id="flowPara9050">1a</flowPara></flowRoot>    </g>
+           id="flowPara9050">1a</flowPara></flowRoot>
+    </g>
     <g
        id="g9728">
       <rect
@@ -3891,7 +3889,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3" /></flowRegion><flowPara
-           id="flowPara9042-3">2</flowPara></flowRoot>    </g>
+           id="flowPara9042-3">2</flowPara></flowRoot>
+    </g>
     <g
        id="g9828">
       <rect
@@ -3913,7 +3912,8 @@
              x="894.44348"
              y="-983.01019"
              style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-           id="flowPara9050-4">1b</flowPara></flowRoot>    </g>
+           id="flowPara9050-4">1b</flowPara></flowRoot>
+    </g>
     <g
        id="g9842">
       <rect
@@ -3935,7 +3935,8 @@
              x="894.44348"
              y="-983.01019"
              style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-           id="flowPara9050-7">1a</flowPara></flowRoot>    </g>
+           id="flowPara9050-7">1a</flowPara></flowRoot>
+    </g>
     <g
        id="g9849">
       <rect
@@ -3957,7 +3958,8 @@
              x="894.44348"
              y="-983.01019"
              style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-           id="flowPara9050-4-2">1b</flowPara></flowRoot>    </g>
+           id="flowPara9050-4-2">1b</flowPara></flowRoot>
+    </g>
     <g
        id="g9862">
       <rect
@@ -3981,7 +3983,8 @@
                height="55.813324"
                width="73.670502"
                id="rect9048-0-0" /></flowRegion><flowPara
-             id="flowPara9050-4-1">1b</flowPara></flowRoot>      </g>
+             id="flowPara9050-4-1">1b</flowPara></flowRoot>
+      </g>
     </g>
     <g
        id="g9870">
@@ -4004,7 +4007,8 @@
              x="894.44348"
              y="-983.01019"
              style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-           id="flowPara9050-9">1a</flowPara></flowRoot>    </g>
+           id="flowPara9050-9">1a</flowPara></flowRoot>
+    </g>
     <g
        id="g9943">
       <rect
@@ -4135,7 +4139,8 @@
                x="894.44348"
                y="-983.01019"
                style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-             id="flowPara9042-3-5">3</flowPara></flowRoot>      </g>
+             id="flowPara9042-3-5">3</flowPara></flowRoot>
+      </g>
     </g>
     <g
        id="g9965">
@@ -4158,7 +4163,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3-1-0" /></flowRegion><flowPara
-           id="flowPara9042-3-5-6">3</flowPara></flowRoot>    </g>
+           id="flowPara9042-3-5-6">3</flowPara></flowRoot>
+    </g>
     <g
        id="g9911">
       <rect
@@ -4180,7 +4186,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3-1-1" /></flowRegion><flowPara
-           id="flowPara9042-3-5-3">4</flowPara></flowRoot>    </g>
+           id="flowPara9042-3-5-3">4</flowPara></flowRoot>
+    </g>
     <g
        id="g9927">
       <path
@@ -4211,7 +4218,8 @@
                x="894.44348"
                y="-983.01019"
                style="fill:#ff00ff;stroke:none" /></flowRegion><flowPara
-             id="flowPara9042-3-5-3-7">4</flowPara></flowRoot>      </g>
+             id="flowPara9042-3-5-3-7">4</flowPara></flowRoot>
+      </g>
     </g>
     <g
        id="g9902">
@@ -4243,7 +4251,8 @@
                x="894.44348"
                y="-983.01019"
                style="fill:#ff00ff;stroke:none" /></flowRegion><flowPara
-             id="flowPara9042-3-5-3-7-3">4</flowPara></flowRoot>      </g>
+             id="flowPara9042-3-5-3-7-3">4</flowPara></flowRoot>
+      </g>
     </g>
     <g
        id="g9467"
@@ -4296,7 +4305,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3-10" /></flowRegion><flowPara
-           id="flowPara9042-3-9">5</flowPara></flowRoot>    </g>
+           id="flowPara9042-3-9">5</flowPara></flowRoot>
+    </g>
     <g
        id="g14255">
       <rect
@@ -4326,7 +4336,8 @@
              width="46.682842"
              id="rect9040-3-10-3" /></flowRegion><flowPara
            id="flowPara9042-3-9-5">6</flowPara><flowPara
-           id="flowPara9529" /></flowRoot>    </g>
+           id="flowPara9529" /></flowRoot>
+    </g>
     <g
        id="g13746">
       <path
@@ -4381,7 +4392,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3-10-8" /></flowRegion><flowPara
-           id="flowPara9042-3-9-7">5</flowPara></flowRoot>      <g
+           id="flowPara9042-3-9-7">5</flowPara></flowRoot>
+      <g
          id="g13739">
         <rect
            y="-633.81085"
@@ -4402,7 +4414,8 @@
                x="894.44348"
                y="-983.01019"
                style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-             id="flowPara9042-3-9-7-0">8</flowPara></flowRoot>      </g>
+             id="flowPara9042-3-9-7-0">8</flowPara></flowRoot>
+      </g>
     </g>
     <g
        id="g13732">
@@ -4425,7 +4438,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3-10-8-3-4" /></flowRegion><flowPara
-           id="flowPara9042-3-9-7-0-0">8</flowPara></flowRoot>    </g>
+           id="flowPara9042-3-9-7-0-0">8</flowPara></flowRoot>
+    </g>
     <g
        id="g9721">
       <rect
@@ -4448,7 +4462,8 @@
              height="67.671936"
              width="46.682842"
              id="rect9040-3-4" /></flowRegion><flowPara
-           id="flowPara9042-3-6">2</flowPara></flowRoot>    </g>
+           id="flowPara9042-3-6">2</flowPara></flowRoot>
+    </g>
     <g
        id="g9801">
       <rect
@@ -4472,7 +4487,8 @@
              id="rect9040-3-10-3-0" /></flowRegion><flowPara
            id="flowPara9042-3-9-5-8">7</flowPara><flowPara
            id="flowPara9769" /><flowPara
-           id="flowPara9529-0" /></flowRoot>    </g>
+           id="flowPara9529-0" /></flowRoot>
+    </g>
     <g
        id="g13530">
       <rect
@@ -4496,7 +4512,8 @@
              id="rect9040-3-10-3-0-8" /></flowRegion><flowPara
            id="flowPara9042-3-9-5-8-7">7</flowPara><flowPara
            id="flowPara9769-5" /><flowPara
-           id="flowPara9529-0-7" /></flowRoot>    </g>
+           id="flowPara9529-0-7" /></flowRoot>
+    </g>
     <g
        id="g13521">
       <rect
@@ -4520,7 +4537,8 @@
              id="rect9040-3-10-3-0-8-5" /></flowRegion><flowPara
            id="flowPara9042-3-9-5-8-7-1">7</flowPara><flowPara
            id="flowPara9769-5-7" /><flowPara
-           id="flowPara9529-0-7-4" /></flowRoot>    </g>
+           id="flowPara9529-0-7-4" /></flowRoot>
+    </g>
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.70866144;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2.83464567, 2.83464567;stroke-dashoffset:0;stroke-opacity:1"
        id="rect13897"
@@ -4541,7 +4559,8 @@
            y="-983.01019"
            style="fill:#00ff00;stroke:none" /></flowRegion><flowPara
          id="flowPara9042-3-9-5-1">6</flowPara><flowPara
-         id="flowPara9529-1" /></flowRoot>    <flowRoot
+         id="flowPara9529-1" /></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot9036-0-5-64"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4553,7 +4572,8 @@
            x="894.44348"
            y="-983.01019"
            style="fill:#00ff00;stroke:none" /></flowRegion><flowPara
-         id="flowPara9042-3-9-2">5</flowPara></flowRoot>    <g
+         id="flowPara9042-3-9-2">5</flowPara></flowRoot>
+    <g
        id="g5622">
       <rect
          transform="matrix(0.71129036,0.7028983,-0.7028983,0.71129036,0,0)"
