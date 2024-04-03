@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 744.09448819 1052.3622047"
    id="svg16096"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="pm_stagger_FLIPOVER_BIT.svg">
   <defs
      id="defs16098" />
@@ -25,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2234257"
-     inkscape:cx="197.8666"
-     inkscape:cy="830.94451"
+     inkscape:zoom="1.1330563"
+     inkscape:cx="145.51181"
+     inkscape:cy="124.72438"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,14 +40,15 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="697"
+     inkscape:window-width="1360"
+     inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
      inkscape:snap-page="true"
-     showguides="true" />
+     showguides="true"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata16101">
     <rdf:RDF>
@@ -58,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2872,11 +2871,5 @@
          id="rect4904"
          style="fill:none;fill-opacity:1;stroke:#ff12ff;stroke-width:1.0629921;stroke-miterlimit:4;stroke-dasharray:3.18897638, 3.18897638;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <circle
-       r="27.46063"
-       cy="183.60173"
-       cx="295.86621"
-       id="circle4924"
-       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
