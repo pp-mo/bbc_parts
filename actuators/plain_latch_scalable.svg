@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0497227"
-     inkscape:cx="431.54254"
-     inkscape:cy="815.92977"
+     inkscape:zoom="2.9690642"
+     inkscape:cx="862.39295"
+     inkscape:cy="660.14067"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1542,5 +1542,36 @@
          y="279.86472"
          transform="rotate(-14)" />
     </g>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect22"
+       width="5"
+       height="18.999998"
+       x="218.33133"
+       y="155.17308" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect23"
+       width="5"
+       height="25"
+       x="278.30746"
+       y="135.95511"
+       transform="rotate(8)" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect24"
+       width="5"
+       height="10"
+       x="322.15442"
+       y="125.11938"
+       transform="rotate(9)" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect47"
+       width="5"
+       height="25"
+       x="278.30746"
+       y="135.95511"
+       transform="rotate(8)" />
   </g>
 </svg>
