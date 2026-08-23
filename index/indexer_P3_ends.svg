@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
    height="210mm"
    viewBox="0 0 1052.3622 744.09448"
    id="svg4243"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="indexer_P3_ends.svg">
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="indexer_P3_ends.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4245" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70958731"
-     inkscape:cx="341.03954"
-     inkscape:cy="497.95814"
+     inkscape:zoom="1.0233408"
+     inkscape:cx="561.39653"
+     inkscape:cy="397.22836"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,10 +38,10 @@
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-others="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="697"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:snap-midpoints="false"
      inkscape:bbox-nodes="true"
@@ -51,11 +51,15 @@
      inkscape:snap-bbox-midpoints="false"
      showguides="false"
      inkscape:snap-nodes="true"
-     inkscape:snap-page="false">
+     inkscape:snap-page="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="-526.39843,1539.9828"
        orientation="1,0"
-       id="guide4742" />
+       id="guide4742"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4248">
@@ -146,7 +150,7 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot9044-4"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="matrix(-0.6441446,0,0,0.55204459,1545.0466,1321.5794)"><flowRegion
              id="flowRegion9046-5"><rect
                id="rect9048-1"
@@ -155,7 +159,9 @@
                x="894.44348"
                y="-983.01019"
                style="fill:#ff0000;stroke:none" /></flowRegion><flowPara
-             id="flowPara9050-9">1a</flowPara></flowRoot>        <g
+             id="flowPara9050-9"
+             style="font-size:40px;line-height:1.25">1a</flowPara></flowRoot>
+        <g
            id="g5089"
            transform="translate(-794.19218,1950.9297)">
           <g
@@ -319,7 +325,7 @@
         <flowRoot
            xml:space="preserve"
            id="flowRoot9036-0-5-0-9-0"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            transform="matrix(0.6441446,0,0,0.55204459,-299.31605,1171.2509)"><flowRegion
              id="flowRegion9038-9-3-0-6-7"><rect
                id="rect9040-3-10-3-0-8"
@@ -328,9 +334,13 @@
                x="894.44348"
                y="-983.01019"
                style="fill:#ff00ff;stroke:none" /></flowRegion><flowPara
-             id="flowPara9042-3-9-5-8-7">7</flowPara><flowPara
-             id="flowPara9769-5" /><flowPara
-             id="flowPara9529-0-7" /></flowRoot>      </g>
+             id="flowPara9042-3-9-5-8-7"
+             style="font-size:40px;line-height:1.25">7</flowPara><flowPara
+             id="flowPara9769-5"
+             style="font-size:40px;line-height:1.25"> </flowPara><flowPara
+             id="flowPara9529-0-7"
+             style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>
+      </g>
     </g>
   </g>
 </svg>
