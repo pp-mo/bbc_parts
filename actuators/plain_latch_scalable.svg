@@ -1654,6 +1654,174 @@
        width="23.193106"
        height="25.437599"
        id="rect122" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect253-9" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect99-7-0-8-5-54" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect99-7-0-8-5-1-31" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect173" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect175" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect178" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect189" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect192" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect199" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect200" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect201" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect205" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect206" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect173-4" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect175-8" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect178-6" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect189-5" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect192-0" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect199-9" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect200-0" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect201-0" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect205-6" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect206-1" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect234" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect128" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect129" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect25" />
+    <rect
+       x="214.72327"
+       y="104.74305"
+       width="23.193106"
+       height="25.437599"
+       id="rect36" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1662,9 +1830,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9758204"
-     inkscape:cx="739.69273"
-     inkscape:cy="772.08434"
+     inkscape:zoom="5.2943273"
+     inkscape:cx="1179.6588"
+     inkscape:cy="301.73805"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -1672,8 +1840,8 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-global="true"
-     inkscape:window-width="2880"
-     inkscape:window-height="1514"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -1959,30 +2127,6 @@
          d="m 170.07123,191.468 v 7.99999 0"
          id="path57" />
     </g>
-    <rect
-       style="fill:none;stroke:#00ff00;stroke-width:0.173205;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect184"
-       width="15"
-       height="5"
-       x="181.12569"
-       y="225.88339"
-       transform="rotate(9)" />
-    <rect
-       style="fill:none;stroke:#ff0000;stroke-width:0.199999;stroke-dasharray:none"
-       id="rect16"
-       width="18"
-       height="34"
-       x="-178.39645"
-       y="-245.39684"
-       transform="matrix(0,-1,-1,0,0,0)" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0,-0.26458333,-0.27913613,0,257.3283,227.92587)"
-       id="text98-0-4-2"
-       style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8);display:inline;fill:none;stroke:#ff0000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
-         x="214.72266"
-         y="110.1057"
-         id="tspan4">B</tspan></text>
     <g
        id="g130"
        transform="matrix(0.96875006,0,0,0.96875006,103.72232,-98.956053)"
@@ -2011,7 +2155,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect123);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan5">E</tspan></text>
+             id="tspan1">E</tspan></text>
       </g>
       <rect
          style="fill:none;stroke:#ff6600;stroke-width:0.199999;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2037,7 +2181,7 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect139);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan6">F
+           id="tspan2">F
 </tspan></text>
     </g>
     <text
@@ -2047,15 +2191,15 @@
        style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect145);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan7">U
+         id="tspan3">U
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan8">
+         id="tspan4">
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan9">
+         id="tspan5">
 </tspan></text>
     <g
        id="g1"
@@ -2075,15 +2219,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect145-27);display:inline;fill:none;stroke:#ff0000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan10">U
+           id="tspan6">U
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan11">
+           id="tspan7">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan12">
+           id="tspan8">
 </tspan></text>
     </g>
     <g
@@ -2096,15 +2240,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect145-6);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan13">T
+           id="tspan9">T
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan14">
+           id="tspan10">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan15">
+           id="tspan11">
 </tspan></text>
       <rect
          style="fill:none;stroke:#008000;stroke-width:0.199999;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2135,66 +2279,46 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect161);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan16">T
+             id="tspan12">T
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan17">
+             id="tspan13">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan18">
+             id="tspan14">
 </tspan></text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       transform="matrix(-0.26132587,-0.04138995,-0.04366652,0.27569951,211.94794,235.74281)"
-       id="text164"
-       style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect164);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+       transform="matrix(0,0.26458333,0.29774521,0,234.25577,164.22635)"
+       id="text170"
+       style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect171);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan21">I
+         id="tspan15">I
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan22">
+         id="tspan16">
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan23">
+         id="tspan17">
 </tspan></text>
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.199999;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect170"
+       width="17"
+       height="34"
+       x="214.43842"
+       y="-282.9487"
+       transform="rotate(90)" />
     <g
-       id="g59"
-       transform="translate(0,14.999985)">
-      <text
-         xml:space="preserve"
-         transform="matrix(0,0.26458333,0.29774521,0,234.25577,149.22637)"
-         id="text170"
-         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect171);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan24">I
-</tspan><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan25">
-</tspan><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan26">
-</tspan></text>
-      <rect
-         style="fill:none;stroke:#008000;stroke-width:0.199999;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect170"
-         width="15"
-         height="34"
-         x="199.43843"
-         y="-282.9487"
-         transform="rotate(90)" />
-    </g>
-    <g
-       id="g24">
+       id="g24"
+       transform="translate(0,2)">
       <text
          xml:space="preserve"
          transform="matrix(-0.28222223,0,0,0.27913613,327.30774,210.58663)"
@@ -2202,11 +2326,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect177);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan27">J
+           id="tspan18">J
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan28">
+           id="tspan19">
 </tspan></text>
       <rect
          style="fill:none;stroke:#008000;stroke-width:0.200001;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2224,11 +2348,11 @@
        style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect181);display:inline;fill:none;stroke:#008000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan29">
+         id="tspan20">
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan30">
+         id="tspan21">
 </tspan></text>
     <g
        id="g398">
@@ -2247,11 +2371,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect197);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan31">M
+           id="tspan22">M
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan32">
+           id="tspan23">
 </tspan></text>
     </g>
     <g
@@ -2272,11 +2396,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect198);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan33">N
+           id="tspan24">N
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan34">
+           id="tspan25">
 </tspan></text>
     </g>
     <path
@@ -2357,7 +2481,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8-5-7);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan35">C</tspan></text>
+             id="tspan26">C</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(-0.26458333,0,0,0.27913613,369.26782,81.591385)"
@@ -2365,7 +2489,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect293);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan36">B</tspan></text>
+             id="tspan27">B</tspan></text>
       </g>
     </g>
     <g
@@ -2409,15 +2533,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect307-3);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan37">P
+           id="tspan28">P
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan38">
+           id="tspan29">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan39">
+           id="tspan30">
 </tspan></text>
     </g>
     <g
@@ -2449,15 +2573,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect312);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan40">Q
+           id="tspan31">Q
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan41">
+           id="tspan32">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan42">
+           id="tspan34">
 </tspan></text>
     </g>
     <g
@@ -2655,15 +2779,15 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect309);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan43">P
+             id="tspan35">P
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan44">
+             id="tspan36">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan45">
+             id="tspan37">
 </tspan></text>
       </g>
       <rect
@@ -2680,15 +2804,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect307-7);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan46">Q
+           id="tspan38">Q
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan47">
+           id="tspan39">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan48">
+           id="tspan40">
 </tspan></text>
       <text
          xml:space="preserve"
@@ -2697,15 +2821,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect315);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan49">Q
+           id="tspan41">Q
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan50">
+           id="tspan42">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan51">
+           id="tspan43">
 </tspan></text>
     </g>
     <g
@@ -2725,15 +2849,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect324);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan52">R
+           id="tspan44">R
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan53">
+           id="tspan45">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan54">
+           id="tspan46">
 </tspan></text>
     </g>
     <g
@@ -2754,15 +2878,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect324-1);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan55">R
+           id="tspan47">R
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan56">
+           id="tspan48">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan57">
+           id="tspan49">
 </tspan></text>
     </g>
     <rect
@@ -2780,7 +2904,7 @@
        style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect250);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan58">F
+         id="tspan50">F
 </tspan></text>
     <g
        id="g338">
@@ -2791,15 +2915,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect237);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan59">V
+           id="tspan51">V
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan60">
+           id="tspan52">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan61">
+           id="tspan53">
 </tspan></text>
       <rect
          style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:0.999995, 0.999995;stroke-dashoffset:0"
@@ -2825,61 +2949,31 @@
        x="248.94868"
        y="319.43842" />
     <g
-       id="g169"
-       transform="rotate(20,157.78279,508.46517)">
-      <rect
-         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect148"
-         width="20"
-         height="5"
-         x="92.42749"
-         y="249.48544"
-         transform="rotate(9)" />
-      <rect
-         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect168"
-         width="10"
-         height="5"
-         x="-254.48544"
-         y="87.42749"
-         transform="rotate(-81)" />
-      <rect
-         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect169"
-         width="25"
-         height="5"
-         x="18.608135"
-         y="272.59055"
-         transform="rotate(-11)" />
-    </g>
-    <g
-       id="g298"
-       transform="translate(-0.22252464,-0.03522899)"
-       style="stroke-width:0.999997">
+       id="g7">
       <rect
          style="fill:none;stroke:#00ff00;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
          id="rect207"
-         width="30"
+         width="28"
          height="5"
-         x="-236.35098"
-         y="-230.88338"
+         x="-235.62569"
+         y="-230.88339"
          transform="rotate(-171)" />
       <text
          xml:space="preserve"
-         transform="matrix(-0.26132587,-0.04138995,-0.04366651,0.2756995,244.51376,240.84179)"
+         transform="matrix(-0.26458333,0,0,0.27913613,240.50459,231.40616)"
          id="text297"
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect297);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735936;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan62">L
+           id="tspan54">L
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan63">
+           id="tspan55">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan64">
+           id="tspan56">
 </tspan></text>
     </g>
     <rect
@@ -2887,7 +2981,7 @@
        id="rect304"
        width="10"
        height="5"
-       x="196.12569"
+       x="197.62569"
        y="225.88339"
        transform="rotate(9)" />
     <g
@@ -2915,11 +3009,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect191-0);display:inline;fill:none;stroke:#00ff00;stroke-width:0.849788;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan65">N
+           id="tspan57">N
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan66">
+           id="tspan58">
 </tspan></text>
       <rect
          style="opacity:0.997;fill:none;fill-opacity:0.615686;stroke:#00ff00;stroke-width:0.2;stroke-linecap:square;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:0.937255"
@@ -2938,15 +3032,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect311);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan67">M
+           id="tspan59">M
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan68">
+           id="tspan60">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan69">
+           id="tspan61">
 </tspan></text>
       <rect
          style="fill:none;stroke:#00ff00;stroke-width:0.199999;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2972,15 +3066,15 @@
        style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect355);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan70">S
+         id="tspan62">S
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan71">
+         id="tspan63">
 </tspan><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan72">
+         id="tspan64">
 </tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
@@ -2989,41 +3083,6 @@
        height="29.999847"
        x="142.52534"
        y="179.64651" />
-    <g
-       id="g444">
-      <text
-         xml:space="preserve"
-         transform="matrix(-0.26458333,0,0,0.27913614,230.85886,186.41197)"
-         id="text343"
-         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect343);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan73">K
-</tspan><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan74">
-</tspan><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan75">
-</tspan></text>
-      <rect
-         style="fill:none;stroke:#00ff00;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect200"
-         width="20"
-         height="5"
-         x="-224.64645"
-         y="170.10516"
-         transform="rotate(-90)" />
-      <rect
-         style="fill:none;stroke:#00ff00;stroke-width:0.2;stroke-dasharray:0.999996, 0.999996;stroke-dashoffset:0"
-         id="rect358"
-         width="5"
-         height="25"
-         x="170.10516"
-         y="204.64645" />
-    </g>
     <g
        id="g364"
        transform="matrix(1,0,0,1.8,0,-96.742288)"
@@ -3046,15 +3105,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect280);display:inline;fill:none;stroke:#ff0000;stroke-width:0.688409;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan76">A
+           id="tspan65">A
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan77">
+           id="tspan66">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan78">
+           id="tspan67">
 </tspan></text>
     </g>
     <rect
@@ -3071,32 +3130,7 @@
        style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect253);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan79">E</tspan></text>
-    <g
-       id="g445">
-      <g
-         id="g376"
-         transform="translate(4.9511719e-6,-9.9999945)">
-        <text
-           xml:space="preserve"
-           transform="matrix(-0.28222223,0,0,0.27913613,328.36607,252.22454)"
-           id="text181"
-           style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect182);display:inline;fill:none;stroke:#008000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
-             x="214.72266"
-             y="110.1057"
-             id="tspan80">K
-</tspan><tspan
-             x="214.72266"
-             y="110.1057"
-             id="tspan81">
-</tspan></text>
-        <path
-           style="fill:none;stroke:#008000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
-           d="m 248.9487,269.43841 h 33.99999 l 0,20 h -4.99999 l 0,5 h -24 l 0,-5 h -5 z"
-           id="path375"
-           sodipodi:nodetypes="ccccccccc" />
-      </g>
-    </g>
+         id="tspan68">E</tspan></text>
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:0.199999;stroke-dasharray:1, 1;stroke-dashoffset:0"
        id="rect384"
@@ -3112,7 +3146,7 @@
        style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect391);display:inline;fill:none;stroke:#ff0000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
          x="214.72266"
          y="110.1057"
-         id="tspan82">A</tspan></text>
+         id="tspan69">A</tspan></text>
     <g
        id="g396"
        transform="translate(5.2916663,-31.750001)">
@@ -3123,7 +3157,7 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0);display:inline;fill:none;stroke:#ff0000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan83">A</tspan></text>
+           id="tspan70">A</tspan></text>
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.199998;stroke-dasharray:none"
          id="rect393"
@@ -3151,7 +3185,7 @@
     </g>
     <g
        id="g399"
-       transform="translate(-74.96275,-29.369739)">
+       transform="translate(-74.96274,-27.369734)">
       <rect
          style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
          id="rect373"
@@ -3167,11 +3201,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect193-9);display:inline;fill:none;stroke:#008000;stroke-width:0.807977;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan84">L
+           id="tspan71">L
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan85">
+           id="tspan72">
 </tspan></text>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none"
@@ -3183,8 +3217,9 @@
          id="path14-1" />
       <path
          style="fill:none;stroke:#008000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
-         d="m 357.91145,258.80817 v -30 h 4.99999 v -9.99999 h 24.00001 v 9.99999 h 4.99999 v 30 z"
-         id="path398" />
+         d="m 357.91144,256.80815 10e-6,-27.99998 h 4.99999 v -9.99999 h 24.00001 v 9.99999 h 4.99999 v 27.99998 z"
+         id="path398"
+         sodipodi:nodetypes="ccccccccc" />
     </g>
     <g
        id="g453">
@@ -3200,15 +3235,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect18);display:inline;fill:none;stroke:#ff0000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan86">U
+           id="tspan73">U
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan87">
+           id="tspan74">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan88">
+           id="tspan75">
 </tspan></text>
     </g>
     <g
@@ -3313,7 +3348,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8-5);display:inline;fill:none;stroke:#ff0000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan89">B</tspan></text>
+             id="tspan76">B</tspan></text>
       </g>
       <g
          id="g434">
@@ -3331,7 +3366,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8-5-1);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan90">C</tspan></text>
+             id="tspan77">C</tspan></text>
         <rect
            style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-dasharray:0.999997, 0.999997;stroke-dashoffset:0"
            id="rect266"
@@ -3392,15 +3427,15 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect237-9);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan91">V
+             id="tspan78">V
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan92">
+             id="tspan79">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan94">
+             id="tspan80">
 </tspan></text>
       </g>
       <rect
@@ -3438,11 +3473,11 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect237-9-8);display:inline;fill:none;stroke:#008000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan95">N
+             id="tspan81">N
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan96">
+             id="tspan82">
 </tspan></text>
       </g>
       <rect
@@ -3502,15 +3537,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect143);display:inline;fill:none;stroke:#0000ff;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan97">H
+           id="tspan83">H
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan98">
+           id="tspan84">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan99">
+           id="tspan85">
 </tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:0.999997, 0.999997;stroke-dashoffset:0"
@@ -3547,11 +3582,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect458);display:inline;fill:none;stroke:#ff0000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan100">X
+           id="tspan86">X
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan101">
+           id="tspan87">
 </tspan></text>
     </g>
     <g
@@ -3571,11 +3606,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect460);display:inline;fill:none;stroke:#ff0000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan102">X
+           id="tspan88">X
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan103">
+           id="tspan89">
 </tspan></text>
     </g>
     <g
@@ -3595,11 +3630,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect462);display:inline;fill:none;stroke:#ff0000;stroke-width:0.712569;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan104">X
+           id="tspan90">X
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan105">
+           id="tspan91">
 </tspan></text>
     </g>
     <path
@@ -3623,11 +3658,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect332-5);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan116">G
+           id="tspan92">G
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan117">
+           id="tspan93">
 </tspan></text>
       <path
          style="fill:none;stroke:#ff7f2a;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
@@ -3645,15 +3680,15 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect145-2-1-1-0);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan118">S
+           id="tspan94">S
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan119">
+           id="tspan95">
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan120">
+           id="tspan96">
 </tspan></text>
       <rect
          style="fill:none;stroke:#000000;stroke-width:0.199999;stroke-dasharray:none;stroke-dashoffset:0"
@@ -3673,11 +3708,11 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect21);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan121">J
+           id="tspan97">J
 </tspan><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan122">
+           id="tspan98">
 </tspan></text>
       <rect
          style="fill:none;stroke:#00ff00;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
@@ -3720,53 +3755,6 @@
        x="-159.87491"
        y="345.02243"
        transform="rotate(-90)" />
-    <g
-       id="g102">
-      <text
-         xml:space="preserve"
-         transform="matrix(0,0.26458333,0.27913613,0,303.49795,26.673602)"
-         id="text98-0-4-2-1-1-2"
-         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8-5-7-3);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
-           x="214.72266"
-           y="110.1057"
-           id="tspan123">D</tspan></text>
-      <rect
-         style="fill:none;stroke:#ff6600;stroke-width:0.2;stroke-dasharray:none"
-         id="rect28"
-         width="20"
-         height="20.000006"
-         x="-94.774895"
-         y="325.02243"
-         transform="rotate(-90)" />
-      <rect
-         style="fill:none;stroke:#ff6600;stroke-width:0.2;stroke-dasharray:0.999996, 0.999996;stroke-dashoffset:0"
-         id="rect34"
-         width="5"
-         height="20.000006"
-         x="-79.774895"
-         y="325.02243"
-         transform="rotate(-90)" />
-      <g
-         id="g93"
-         transform="translate(-1.9936446,-1.0583333)">
-        <rect
-           style="fill:none;stroke:#ff6600;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
-           id="rect77"
-           width="5"
-           height="12"
-           x="180.09837"
-           y="297.90811"
-           transform="rotate(-45)" />
-        <text
-           xml:space="preserve"
-           transform="matrix(-0.18708867,0.18708867,0.19737905,0.19737905,365.10474,23.933148)"
-           id="text93"
-           style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
-             x="214.72266"
-             y="110.1057"
-             id="tspan124">E</tspan></text>
-      </g>
-    </g>
     <rect
        style="fill:none;stroke:#0000ff;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect102"
@@ -3791,7 +3779,7 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect621);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan125">D</tspan></text>
+           id="tspan99">D</tspan></text>
       <rect
          style="fill:none;stroke:#800080;stroke-width:0.199999;stroke-dasharray:0.999996, 0.999996;stroke-dashoffset:0"
          id="rect608"
@@ -3817,11 +3805,11 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect624);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan126">G
+             id="tspan100">G
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan127">
+             id="tspan101">
 </tspan></text>
       </g>
       <g
@@ -3842,15 +3830,15 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect626);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan128">R
+             id="tspan102">R
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan129">
+             id="tspan103">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan130">
+             id="tspan104">
 </tspan></text>
       </g>
       <g
@@ -3871,7 +3859,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect627);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan131">F
+             id="tspan105">F
 </tspan></text>
       </g>
       <path
@@ -3889,15 +3877,15 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect638);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan132">H
+             id="tspan106">H
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan133">
+             id="tspan107">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan134">
+             id="tspan108">
 </tspan></text>
         <rect
            style="fill:none;stroke:#800080;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
@@ -3915,7 +3903,7 @@
     </g>
     <g
        id="g117"
-       transform="translate(-2.8207702e-7,68.791665)">
+       transform="translate(-4.5260627e-8,68.791676)">
       <rect
          style="fill:none;stroke:#800080;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
          id="rect103"
@@ -3930,7 +3918,7 @@
          style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect117);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
            x="214.72266"
            y="110.1057"
-           id="tspan135">D</tspan></text>
+           id="tspan109">D</tspan></text>
       <rect
          style="fill:none;stroke:#800080;stroke-width:0.199999;stroke-dasharray:0.999996, 0.999996;stroke-dashoffset:0"
          id="rect106"
@@ -3956,11 +3944,11 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect118);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan136">G
+             id="tspan110">G
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan137">
+             id="tspan111">
 </tspan></text>
       </g>
       <g
@@ -3981,15 +3969,15 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect119);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan138">R
+             id="tspan112">R
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan139">
+             id="tspan113">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan140">
+             id="tspan114">
 </tspan></text>
       </g>
       <g
@@ -4010,7 +3998,7 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect120);display:inline;fill:none;stroke:#000000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan141">F
+             id="tspan115">F
 </tspan></text>
       </g>
       <path
@@ -4028,15 +4016,15 @@
            style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect122);display:inline;fill:none;stroke:#800080;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan142">H
+             id="tspan116">H
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan143">
+             id="tspan117">
 </tspan><tspan
              x="214.72266"
              y="110.1057"
-             id="tspan144">
+             id="tspan118">
 </tspan></text>
         <rect
            style="fill:none;stroke:#800080;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
@@ -4051,6 +4039,195 @@
          style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
          d="m 172.97625,122.30558 -5.29928,1.7798"
          id="path116" />
+    </g>
+    <g
+       id="g229">
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.199999;stroke-dasharray:none"
+         id="rect16"
+         width="18"
+         height="34"
+         x="-178.39645"
+         y="-245.39684"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0,-0.26458333,-0.27913613,0,257.3283,227.92587)"
+         id="text98-0-4-2"
+         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8);display:inline;fill:none;stroke:#ff0000;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan119">B</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.199999;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="rect227"
+         width="18"
+         height="5"
+         x="-178.39645"
+         y="-216.39684"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.199999;stroke-dasharray:1, 1;stroke-dashoffset:0"
+         id="rect229"
+         width="18"
+         height="5"
+         x="-178.39645"
+         y="-245.39684"
+         transform="matrix(0,-1,-1,0,0,0)" />
+    </g>
+    <g
+       id="g129"
+       transform="translate(-47.625002)">
+      <text
+         xml:space="preserve"
+         transform="matrix(-0.26458333,0,0,0.27913613,393.38813,124.96914)"
+         id="text129"
+         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect129);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan120">G
+</tspan><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan121">
+</tspan></text>
+      <path
+         style="fill:none;stroke:#ff7f2a;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m 325.02242,144.8749 h 20.00001 v 15 h -4.00002 v 7.84489 h -11.99999 v -7.84489 h -4 z"
+         id="path129"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       id="g133"
+       transform="matrix(1.2378351,0.17396638,-0.1391731,0.99026807,-191.4665,-4.9586869)"
+       style="stroke-width:0.894427">
+      <rect
+         style="fill:none;stroke:#ff00ff;stroke-width:0.178885;stroke-dasharray:none"
+         id="rect131"
+         width="4"
+         height="15"
+         x="277.3974"
+         y="144.87489" />
+      <rect
+         style="fill:none;stroke:#ff00ff;stroke-width:0.178885;stroke-dasharray:none"
+         id="rect132"
+         width="4"
+         height="7.8448901"
+         x="277.3974"
+         y="159.87489" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:1, 1"
+       id="rect3"
+       width="28.030001"
+       height="3"
+       x="132.76093"
+       y="264.34555" />
+    <g
+       id="g169"
+       transform="rotate(20,157.85778,512.76025)">
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect148"
+         width="20"
+         height="5"
+         x="92.42749"
+         y="249.48544"
+         transform="rotate(9)" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect168"
+         width="10"
+         height="5"
+         x="-254.48544"
+         y="87.42749"
+         transform="rotate(-81)" />
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:0.2;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect169"
+         width="25"
+         height="5"
+         x="18.608135"
+         y="272.59055"
+         transform="rotate(-11)" />
+    </g>
+    <g
+       id="g17">
+      <text
+         xml:space="preserve"
+         transform="matrix(-0.26132587,-0.04138995,-0.04366652,0.27569951,212.47711,235.74281)"
+         id="text164"
+         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect164);display:inline;fill:none;stroke:#00ff00;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan122">I
+</tspan><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan123">
+</tspan><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan124">
+</tspan></text>
+      <rect
+         style="fill:none;stroke:#00ff00;stroke-width:0.173205;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect17"
+         width="17"
+         height="5"
+         x="180.62569"
+         y="225.88339"
+         transform="rotate(9)" />
+    </g>
+    <g
+       id="g38">
+      <text
+         xml:space="preserve"
+         transform="matrix(0,0.26458333,0.27913613,0,303.49795,26.673602)"
+         id="text98-0-4-2-1-1-2"
+         style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect99-7-0-8-5-7-3);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+           x="214.72266"
+           y="110.1057"
+           id="tspan125">D</tspan></text>
+      <g
+         id="g37">
+        <rect
+           style="fill:none;stroke:#ff6600;stroke-width:0.2;stroke-dasharray:none"
+           id="rect28"
+           width="20"
+           height="20.000006"
+           x="-94.774895"
+           y="325.02243"
+           transform="rotate(-90)" />
+        <rect
+           style="fill:none;stroke:#ff6600;stroke-width:0.2;stroke-dasharray:0.999996, 0.999996;stroke-dashoffset:0"
+           id="rect34"
+           width="5"
+           height="20.000006"
+           x="-79.774895"
+           y="325.02243"
+           transform="rotate(-90)" />
+        <g
+           id="g33"
+           transform="rotate(8,334.3825,71.335116)">
+          <rect
+             style="fill:none;stroke:#ff6600;stroke-width:0.2;stroke-dasharray:1, 1;stroke-dashoffset:0"
+             id="rect33"
+             width="5"
+             height="12"
+             x="180.09837"
+             y="297.90811"
+             transform="rotate(-45)" />
+          <text
+             xml:space="preserve"
+             transform="matrix(-0.18708867,0.18708867,0.19737905,0.19737905,365.10474,23.933148)"
+             id="text33"
+             style="font-size:18.6667px;line-height:0;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect36);display:inline;fill:none;stroke:#ff6600;stroke-width:0.735938;stroke-dasharray:none;stroke-dashoffset:0"><tspan
+               x="214.72266"
+               y="110.1057"
+               id="tspan126">E</tspan></text>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
